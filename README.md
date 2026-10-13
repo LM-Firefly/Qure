@@ -1,14 +1,14 @@
 # Qure<br>
-![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Logo.png)
+![Image text](https://raw.githubusercontent.com/LM-Firefly/Qure/master/Other/Qure_Logo.png)
 <br>
 
 ## 简介
 Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X/) 内策略组而精心设计的图标组。在这里你可以订阅、下载并更新它们。<br>
 
 ## 使用说明
-「PROXY」订阅推荐使用Qure mini(纯白)图标集：https://raw.githubusercontent.com/Koolson/Qure/master/Other/Quremini.json
+「PROXY」订阅推荐使用Qure mini(纯白)图标集：https://raw.githubusercontent.com/LM-Firefly/Qure/master/Other/Quremini.json
 
-「自定义策略」订阅推荐使用Qure Color(彩色)图标集：https://raw.githubusercontent.com/Koolson/Qure/master/Other/QureColor.json
+「自定义策略」订阅推荐使用Qure Color(彩色)图标集：https://raw.githubusercontent.com/LM-Firefly/Qure/master/Other/QureColor.json
 
 ## 补充说明
 转载请注明出处，谢谢！<br>
@@ -24,6 +24,15 @@ Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X
 ## 更新日志
 <details>
 <summary><strong>所有日志</strong></summary><br>
+<strong>v2.8</strong><br>
+2026-2-13<br>
+1. 图标新增：Xiaomi.png（Color / mini / Light / Dark 四套）<br>
+2. 图标新增：NL.png、AT.png、AZ.png、BG.png、CH.png、CL.png、CO.png、CZ.png、ES.png、IL.png、LV.png、PK.png、PL.png、VN.png（Area 国旗徽章，四套）<br>
+3. 图标新增：Netherlands.png、Austria.png、Azerbaijan.png、Bulgaria.png、Switzerland.png、Chile.png、Colombia.png、Czech_Republic.png、Spain.png、Israel.png、Latvia.png、Pakistan.png、Poland.png、Vietnam.png（Area 国旗图案，对齐 Canada/Brazil 风格，四套）<br>
+4. 图标新增：Clock.png（闹钟，四套）<br>
+5. 国旗图标完善：以 square-flags 为素材重建 Area 国旗，覆盖 265 个国家/地区，各含「字母」（ISO 码，如 NL.png）与「图形」（旗面，如 Netherlands.png）两套，四主题齐全<br>
+<br>
+
 <strong>v2.7</strong><br>
 2020-4-12<br>
 *所有图标名称均可在效果图中获知；<br>
@@ -85,7 +94,7 @@ Quantumult X最美简雅风策略组图标现以Qure全新呈现<br>
 </details>
 
 ## 效果图预览
-[查看大图](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_All.png)<br>
-![Image text](https://raw.githubusercontent.com/Koolson/Qure/master/Other/Qure_Preview_All.png)
+[查看大图](https://raw.githubusercontent.com/LM-Firefly/Qure/master/Other/Qure_Preview_All.png)<br>
+![Image text](https://raw.githubusercontent.com/LM-Firefly/Qure/master/Other/Qure_Preview_All.png)
 
 ![Koolson's github stats](https://github-readme-stats.vercel.app/api?username=koolson&show_icons=true&theme=vue-dark)

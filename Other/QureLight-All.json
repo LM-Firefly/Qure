@@ -1,1 +1,3030 @@
-{"name":"Qure Light (All)","icons":[{"name":"Frog.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Frog.png"},{"name":"Blackhole.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Blackhole.png"},{"name":"TAG.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/TAG.png"},{"name":"Bamboo.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Bamboo.png"},{"name":"Cat.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Cat.png"},{"name":"Lambda.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Lambda.png"},{"name":"Panda.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Panda.png"},{"name":"SSL.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SSL.png"},{"name":"Luffy.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Luffy.png"},{"name":"Nfcloud.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Nfcloud.png"},{"name":"Catnet.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Catnet.png"},{"name":"5iTV.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/5iTV.png"},{"name":"aaex.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/aaex.png"},{"name":"AbemaTV.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/AbemaTV.png"},{"name":"AbemaTV_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/AbemaTV_Letter.png"},{"name":"AdBlack.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/AdBlack.png"},{"name":"Advertising.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Advertising.png"},{"name":"AdWhite.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/AdWhite.png"},{"name":"AIA.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/AIA.png"},{"name":"AIA_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/AIA_Letter.png"},{"name":"Airport.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Airport.png"},{"name":"Alibaba.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Alibaba.png"},{"name":"Alibaba_Cloud.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Alibaba_Cloud.png"},{"name":"All4.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/All4.png"},{"name":"AmyTelecom.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/AmyTelecom.png"},{"name":"AmyTelecom_1.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/AmyTelecom_1.png"},{"name":"Apol.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apol.png"},{"name":"Apple.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple.png"},{"name":"Apple_Fitness+.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple_Fitness+.png"},{"name":"Apple_Fitness.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple_Fitness.png"},{"name":"Apple_Mail.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple_Mail.png"},{"name":"Apple_Music.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple_Music.png"},{"name":"Apple_News.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple_News.png"},{"name":"Apple_TV.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple_TV.png"},{"name":"Apple_TV_Plus.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple_TV_Plus.png"},{"name":"Apple_Update.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple_Update.png"},{"name":"App_Store.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/App_Store.png"},{"name":"Area.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Area.png"},{"name":"ARK.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/ARK.png"},{"name":"Auto.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Auto.png"},{"name":"Available.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Available.png"},{"name":"Available_Alt.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Available_Alt.png"},{"name":"AWS.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/AWS.png"},{"name":"Azure.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Azure.png"},{"name":"Back.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Back.png"},{"name":"Bahamut.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Bahamut.png"},{"name":"Baidu_Cloud.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Baidu_Cloud.png"},{"name":"BBC_iPlayer.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/BBC_iPlayer.png"},{"name":"BBTEC.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/BBTEC.png"},{"name":"BGP.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/BGP.png"},{"name":"bilibili.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/bilibili.png"},{"name":"Blinkload.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Blinkload.png"},{"name":"Blinkload_B.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Blinkload_B.png"},{"name":"Blinkload_SS.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Blinkload_SS.png"},{"name":"Blinkload_V2Ray.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Blinkload_V2Ray.png"},{"name":"Bookpedia.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Bookpedia.png"},{"name":"BosLife.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/BosLife.png"},{"name":"BosLife_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/BosLife_Letter.png"},{"name":"Bot.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Bot.png"},{"name":"Bypass.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Bypass.png"},{"name":"CA.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CA.png"},{"name":"Canada.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Canada.png"},{"name":"CCCAT.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CCCAT.png"},{"name":"CCCAT_C.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CCCAT_C.png"},{"name":"Cellular.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Cellular.png"},{"name":"CEN.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CEN.png"},{"name":"China.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/China.png"},{"name":"China_Map.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/China_Map.png"},{"name":"China_Telecom.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/China_Telecom.png"},{"name":"China_Unicom.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/China_Unicom.png"},{"name":"CHT.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CHT.png"},{"name":"Cloudflare.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Cloudflare.png"},{"name":"CMI.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CMI.png"},{"name":"CN.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CN.png"},{"name":"CN2.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CN2.png"},{"name":"CN2_GIA.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CN2_GIA.png"},{"name":"CN2_GT.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CN2_GT.png"},{"name":"CONAIR.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CONAIR.png"},{"name":"CrossWall.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CrossWall.png"},{"name":"CTM.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/CTM.png"},{"name":"Cydia.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Cydia.png"},{"name":"Daily.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Daily.png"},{"name":"DAZN.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/DAZN.png"},{"name":"DE.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/DE.png"},{"name":"deezer.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/deezer.png"},{"name":"deezer_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/deezer_Letter.png"},{"name":"Dinosaur.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Dinosaur.png"},{"name":"Direct.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Direct.png"},{"name":"discovery+.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/discovery+.png"},{"name":"Disney+.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Disney+.png"},{"name":"Dler.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Dler.png"},{"name":"DMIT.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/DMIT.png"},{"name":"Domestic.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Domestic.png"},{"name":"DomesticMedia.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/DomesticMedia.png"},{"name":"Download.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Download.png"},{"name":"Drill.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Drill.png"},{"name":"Emby.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Emby.png"},{"name":"encoreTVB.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/encoreTVB.png"},{"name":"ESPN+.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/ESPN+.png"},{"name":"EU.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/EU.png"},{"name":"European_Union.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/European_Union.png"},{"name":"Facebook.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Facebook.png"},{"name":"FI.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/FI.png"},{"name":"Filter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Filter.png"},{"name":"Final.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Final.png"},{"name":"Find_My.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Find_My.png"},{"name":"Flamingo.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Flamingo.png"},{"name":"ForeignMedia.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/ForeignMedia.png"},{"name":"FOX.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/FOX.png"},{"name":"friDay.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/friDay.png"},{"name":"fuboTV.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/fuboTV.png"},{"name":"G-Core_Labs.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/G-Core_Labs.png"},{"name":"Game.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Game.png"},{"name":"GCP.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GCP.png"},{"name":"Germany.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Germany.png"},{"name":"GIA.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GIA.png"},{"name":"GLaDOS.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GLaDOS.png"},{"name":"Global.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Global.png"},{"name":"GlobalMedia.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GlobalMedia.png"},{"name":"Google.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Google.png"},{"name":"Google_Drive.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Google_Drive.png"},{"name":"Google_Opinion_Rewards.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Google_Opinion_Rewards.png"},{"name":"Google_Search.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Google_Search.png"},{"name":"GT.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GT.png"},{"name":"GuGuEX.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GuGuEX.png"},{"name":"GuGuEX_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GuGuEX_Letter.png"},{"name":"HBO.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/HBO.png"},{"name":"HBO_Max.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/HBO_Max.png"},{"name":"Heart.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Heart.png"},{"name":"Heureka.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Heureka.png"},{"name":"HGC.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/HGC.png"},{"name":"Hijacking.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Hijacking.png"},{"name":"HiNet.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/HiNet.png"},{"name":"hitun.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/hitun.png"},{"name":"HK.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/HK.png"},{"name":"HKBN.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/HKBN.png"},{"name":"HKMTMedia.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/HKMTMedia.png"},{"name":"HKT.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/HKT.png"},{"name":"Hong_Kong.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Hong_Kong.png"},{"name":"Hulu.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Hulu.png"},{"name":"iCloud.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/iCloud.png"},{"name":"IEPL.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/IEPL.png"},{"name":"IIJ.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/IIJ.png"},{"name":"IN.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/IN.png"},{"name":"Ingress.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Ingress.png"},{"name":"Instagram.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Instagram.png"},{"name":"IPLC.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/IPLC.png"},{"name":"iQIYI&bilibili.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/iQIYI&bilibili.png"},{"name":"iQIYI.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/iQIYI.png"},{"name":"ITV_Hub.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/ITV_Hub.png"},{"name":"Japan.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Japan.png"},{"name":"JIYOU.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/JIYOU.png"},{"name":"JOOX.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/JOOX.png"},{"name":"JOOX_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/JOOX_Letter.png"},{"name":"JP.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/JP.png"},{"name":"KKBOX.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/KKBOX.png"},{"name":"KKTV.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/KKTV.png"},{"name":"Korea.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Korea.png"},{"name":"KR.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/KR.png"},{"name":"KT.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/KT.png"},{"name":"Lab.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Lab.png"},{"name":"League_of_Legends.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/League_of_Legends.png"},{"name":"LineTV.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/LineTV.png"},{"name":"LineTV_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/LineTV_Letter.png"},{"name":"LiTV.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/LiTV.png"},{"name":"Lock.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Lock.png"},{"name":"LOL.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/LOL.png"},{"name":"Loop.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Loop.png"},{"name":"Macao.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Macao.png"},{"name":"Magic.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Magic.png"},{"name":"Mail.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Mail.png"},{"name":"Malaysia.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Malaysia.png"},{"name":"MAYING.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/MAYING.png"},{"name":"Media.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Media.png"},{"name":"Microsoft.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Microsoft.png"},{"name":"MO.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/MO.png"},{"name":"Mouse.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Mouse.png"},{"name":"Music.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Music.png"},{"name":"Music_Enhance.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Music_Enhance.png"},{"name":"MY.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/MY.png"},{"name":"My5.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/My5.png"},{"name":"myTV_SUPER.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/myTV_SUPER.png"},{"name":"N3RO.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/N3RO.png"},{"name":"NBC.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/NBC.png"},{"name":"Netease_Music.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music.png"},{"name":"Netease_Music_Unlock.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music_Unlock.png"},{"name":"Netflix.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netflix.png"},{"name":"Netflix_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netflix_Letter.png"},{"name":"Nexitally.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Nexitally.png"},{"name":"niconico.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/niconico.png"},{"name":"niconico_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/niconico_Letter.png"},{"name":"Notion.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Notion.png"},{"name":"NTT.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/NTT.png"},{"name":"Null_Nation.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Null_Nation.png"},{"name":"NyanCat.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/NyanCat.png"},{"name":"OneDrive.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/OneDrive.png"},{"name":"Oracle.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Oracle.png"},{"name":"Ox.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Ox.png"},{"name":"Pandora.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Pandora.png"},{"name":"PayPal.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/PayPal.png"},{"name":"PBS.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/PBS.png"},{"name":"PCCW.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/PCCW.png"},{"name":"Peacock.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Peacock.png"},{"name":"Peacock_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Peacock_Letter.png"},{"name":"Peacock_P.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Peacock_P.png"},{"name":"PH.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/PH.png"},{"name":"Philippines.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Philippines.png"},{"name":"Pig.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Pig.png"},{"name":"Pornhub.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Pornhub.png"},{"name":"PostBox.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/PostBox.png"},{"name":"PostBox_Alt.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/PostBox_Alt.png"},{"name":"Prime_Video.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Prime_Video.png"},{"name":"Proxy.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Proxy.png"},{"name":"Puzzle.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Puzzle.png"},{"name":"QQ.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/QQ.png"},{"name":"Quantumult_X.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Quantumult_X.png"},{"name":"Qure.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Qure.png"},{"name":"Reject.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Reject.png"},{"name":"rix.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/rix.png"},{"name":"rixcloud.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/rixcloud.png"},{"name":"Rocket.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Rocket.png"},{"name":"Round_Robin.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Round_Robin.png"},{"name":"Round_Robin_Alt.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Round_Robin_Alt.png"},{"name":"RU.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/RU.png"},{"name":"Russia.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Russia.png"},{"name":"Server.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Server.png"},{"name":"SG.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SG.png"},{"name":"Singapore.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Singapore.png"},{"name":"Siri.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Siri.png"},{"name":"SK.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SK.png"},{"name":"Sling_TV.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Sling_TV.png"},{"name":"SoftBank.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SoftBank.png"},{"name":"SoftBank_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SoftBank_Letter.png"},{"name":"Spark.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Spark.png"},{"name":"Speedtest.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Speedtest.png"},{"name":"Spotify.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Spotify.png"},{"name":"SS.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SS.png"},{"name":"SSID.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SSID.png"},{"name":"SSID_Alt.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SSID_Alt.png"},{"name":"SSR.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SSR.png"},{"name":"ssrcloud.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/ssrcloud.png"},{"name":"SSR_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SSR_Letter.png"},{"name":"SS_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SS_Letter.png"},{"name":"Stack.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Stack.png"},{"name":"Star.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Star.png"},{"name":"Static.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Static.png"},{"name":"Static_Alt.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Static_Alt.png"},{"name":"Streaming.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Streaming.png"},{"name":"StreamingCN.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/StreamingCN.png"},{"name":"StreamingSE.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/StreamingSE.png"},{"name":"Taiwan.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Taiwan.png"},{"name":"Taobao.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Taobao.png"},{"name":"Telegram.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram.png"},{"name":"Telegram_X.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram_X.png"},{"name":"Tencent_Cloud.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Tencent_Cloud.png"},{"name":"TestFlight.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/TestFlight.png"},{"name":"TH.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/TH.png"},{"name":"Thailand.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Thailand.png"},{"name":"TIDAL.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/TIDAL.png"},{"name":"TikTok.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/TikTok.png"},{"name":"TR.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/TR.png"},{"name":"Trojan.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Trojan.png"},{"name":"Trojan_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Trojan_Letter.png"},{"name":"Turkey.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Turkey.png"},{"name":"TVB.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/TVB.png"},{"name":"TW.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/TW.png"},{"name":"Twitch.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Twitch.png"},{"name":"Twitter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Twitter.png"},{"name":"UK.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/UK.png"},{"name":"ULB.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/ULB.png"},{"name":"ULB_Alt.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/ULB_Alt.png"},{"name":"UN.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/UN.png"},{"name":"United_Kingdom.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/United_Kingdom.png"},{"name":"United_Nations.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/United_Nations.png"},{"name":"United_States.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/United_States.png"},{"name":"United_States_Map.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/United_States_Map.png"},{"name":"Unlock.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Unlock.png"},{"name":"US.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/US.png"},{"name":"Vimeo.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Vimeo.png"},{"name":"VIP.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/VIP.png"},{"name":"VirMach.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/VirMach.png"},{"name":"VirMach_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/VirMach_Letter.png"},{"name":"ViuTV.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/ViuTV.png"},{"name":"VMess.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/VMess.png"},{"name":"VMess_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/VMess_Letter.png"},{"name":"w8ves.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/w8ves.png"},{"name":"w8ves_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/w8ves_Letter.png"},{"name":"Want_Want.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Want_Want.png"},{"name":"Want_Want_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Want_Want_Letter.png"},{"name":"WeChat.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/WeChat.png"},{"name":"WeTV.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/WeTV.png"},{"name":"WeTV_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/WeTV_Letter.png"},{"name":"WiFi.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/WiFi.png"},{"name":"Windows.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Windows.png"},{"name":"WTT.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/WTT.png"},{"name":"x0.1.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/x0.1.png"},{"name":"x0.2.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/x0.2.png"},{"name":"x0.3.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/x0.3.png"},{"name":"x0.4.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/x0.4.png"},{"name":"x0.5.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/x0.5.png"},{"name":"x0.7.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/x0.7.png"},{"name":"x0.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/x0.png"},{"name":"x1.0.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/x1.0.png"},{"name":"x1.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/x1.png"},{"name":"x2.0.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/x2.0.png"},{"name":"x2.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/x2.png"},{"name":"x3.0.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/x3.0.png"},{"name":"x3.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/x3.png"},{"name":"x4.0.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/x4.0.png"},{"name":"x5.0.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/x5.0.png"},{"name":"Yahoo.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Yahoo.png"},{"name":"Yahoo_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Yahoo_Letter.png"},{"name":"YouTube.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/YouTube.png"},{"name":"YouTube_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/YouTube_Letter.png"},{"name":"YouTube_Music.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/YouTube_Music.png"},{"name":"YoYu.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/YoYu.png"},{"name":"YoYu_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/YoYu_Letter.png"},{"name":"YTOO.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/YTOO.png"},{"name":"YTOO_Letter.png","url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/YTOO_Letter.png"}],"description":"Qure Light (All) 是 Qure 项目下的浅色主题的「所有」图标集 @Koolson"}
+{
+  "name": "Qure Light (All)",
+  "icons": [
+    {
+      "name": "Frog.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Frog.png"
+    },
+    {
+      "name": "Blackhole.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Blackhole.png"
+    },
+    {
+      "name": "TAG.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TAG.png"
+    },
+    {
+      "name": "Bamboo.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Bamboo.png"
+    },
+    {
+      "name": "Cat.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Cat.png"
+    },
+    {
+      "name": "Lambda.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Lambda.png"
+    },
+    {
+      "name": "Panda.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Panda.png"
+    },
+    {
+      "name": "SSL.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SSL.png"
+    },
+    {
+      "name": "Luffy.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Luffy.png"
+    },
+    {
+      "name": "Nfcloud.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Nfcloud.png"
+    },
+    {
+      "name": "Catnet.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Catnet.png"
+    },
+    {
+      "name": "5iTV.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/5iTV.png"
+    },
+    {
+      "name": "aaex.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/aaex.png"
+    },
+    {
+      "name": "AbemaTV.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AbemaTV.png"
+    },
+    {
+      "name": "AbemaTV_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AbemaTV_Letter.png"
+    },
+    {
+      "name": "AdBlack.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AdBlack.png"
+    },
+    {
+      "name": "Advertising.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Advertising.png"
+    },
+    {
+      "name": "AdWhite.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AdWhite.png"
+    },
+    {
+      "name": "AIA.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AIA.png"
+    },
+    {
+      "name": "AIA_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AIA_Letter.png"
+    },
+    {
+      "name": "Airport.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Airport.png"
+    },
+    {
+      "name": "Alibaba.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Alibaba.png"
+    },
+    {
+      "name": "Alibaba_Cloud.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Alibaba_Cloud.png"
+    },
+    {
+      "name": "All4.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/All4.png"
+    },
+    {
+      "name": "AmyTelecom.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AmyTelecom.png"
+    },
+    {
+      "name": "AmyTelecom_1.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AmyTelecom_1.png"
+    },
+    {
+      "name": "Apol.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Apol.png"
+    },
+    {
+      "name": "Apple.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Apple.png"
+    },
+    {
+      "name": "Apple_Fitness+.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Apple_Fitness+.png"
+    },
+    {
+      "name": "Apple_Fitness.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Apple_Fitness.png"
+    },
+    {
+      "name": "Apple_Mail.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Apple_Mail.png"
+    },
+    {
+      "name": "Apple_Music.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Apple_Music.png"
+    },
+    {
+      "name": "Apple_News.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Apple_News.png"
+    },
+    {
+      "name": "Apple_TV.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Apple_TV.png"
+    },
+    {
+      "name": "Apple_TV_Plus.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Apple_TV_Plus.png"
+    },
+    {
+      "name": "Apple_Update.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Apple_Update.png"
+    },
+    {
+      "name": "App_Store.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/App_Store.png"
+    },
+    {
+      "name": "Area.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Area.png"
+    },
+    {
+      "name": "ARK.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ARK.png"
+    },
+    {
+      "name": "Auto.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Auto.png"
+    },
+    {
+      "name": "Available.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Available.png"
+    },
+    {
+      "name": "Available_Alt.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Available_Alt.png"
+    },
+    {
+      "name": "AWS.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AWS.png"
+    },
+    {
+      "name": "Azure.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Azure.png"
+    },
+    {
+      "name": "Back.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Back.png"
+    },
+    {
+      "name": "Bahamut.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Bahamut.png"
+    },
+    {
+      "name": "Baidu_Cloud.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Baidu_Cloud.png"
+    },
+    {
+      "name": "BBC_iPlayer.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BBC_iPlayer.png"
+    },
+    {
+      "name": "BBTEC.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BBTEC.png"
+    },
+    {
+      "name": "BGP.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BGP.png"
+    },
+    {
+      "name": "bilibili.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/bilibili.png"
+    },
+    {
+      "name": "Blinkload.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Blinkload.png"
+    },
+    {
+      "name": "Blinkload_B.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Blinkload_B.png"
+    },
+    {
+      "name": "Blinkload_SS.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Blinkload_SS.png"
+    },
+    {
+      "name": "Blinkload_V2Ray.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Blinkload_V2Ray.png"
+    },
+    {
+      "name": "Bookpedia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Bookpedia.png"
+    },
+    {
+      "name": "BosLife.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BosLife.png"
+    },
+    {
+      "name": "BosLife_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BosLife_Letter.png"
+    },
+    {
+      "name": "Bot.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Bot.png"
+    },
+    {
+      "name": "Bypass.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Bypass.png"
+    },
+    {
+      "name": "CA.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CA.png"
+    },
+    {
+      "name": "Canada.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Canada.png"
+    },
+    {
+      "name": "CCCAT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CCCAT.png"
+    },
+    {
+      "name": "CCCAT_C.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CCCAT_C.png"
+    },
+    {
+      "name": "Cellular.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Cellular.png"
+    },
+    {
+      "name": "CEN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CEN.png"
+    },
+    {
+      "name": "China.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/China.png"
+    },
+    {
+      "name": "China_Map.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/China_Map.png"
+    },
+    {
+      "name": "China_Telecom.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/China_Telecom.png"
+    },
+    {
+      "name": "China_Unicom.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/China_Unicom.png"
+    },
+    {
+      "name": "CHT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CHT.png"
+    },
+    {
+      "name": "Cloudflare.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Cloudflare.png"
+    },
+    {
+      "name": "CMI.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CMI.png"
+    },
+    {
+      "name": "CN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CN.png"
+    },
+    {
+      "name": "CN2.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CN2.png"
+    },
+    {
+      "name": "CN2_GIA.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CN2_GIA.png"
+    },
+    {
+      "name": "CN2_GT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CN2_GT.png"
+    },
+    {
+      "name": "CONAIR.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CONAIR.png"
+    },
+    {
+      "name": "CrossWall.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CrossWall.png"
+    },
+    {
+      "name": "CTM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CTM.png"
+    },
+    {
+      "name": "Cydia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Cydia.png"
+    },
+    {
+      "name": "Daily.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Daily.png"
+    },
+    {
+      "name": "DAZN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/DAZN.png"
+    },
+    {
+      "name": "DE.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/DE.png"
+    },
+    {
+      "name": "deezer.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/deezer.png"
+    },
+    {
+      "name": "deezer_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/deezer_Letter.png"
+    },
+    {
+      "name": "Dinosaur.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Dinosaur.png"
+    },
+    {
+      "name": "Direct.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Direct.png"
+    },
+    {
+      "name": "discovery+.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/discovery+.png"
+    },
+    {
+      "name": "Disney+.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Disney+.png"
+    },
+    {
+      "name": "Dler.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Dler.png"
+    },
+    {
+      "name": "DMIT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/DMIT.png"
+    },
+    {
+      "name": "Domestic.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Domestic.png"
+    },
+    {
+      "name": "DomesticMedia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/DomesticMedia.png"
+    },
+    {
+      "name": "Download.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Download.png"
+    },
+    {
+      "name": "Drill.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Drill.png"
+    },
+    {
+      "name": "Emby.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Emby.png"
+    },
+    {
+      "name": "encoreTVB.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/encoreTVB.png"
+    },
+    {
+      "name": "ESPN+.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ESPN+.png"
+    },
+    {
+      "name": "EU.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/EU.png"
+    },
+    {
+      "name": "European_Union.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/European_Union.png"
+    },
+    {
+      "name": "Facebook.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Facebook.png"
+    },
+    {
+      "name": "FI.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/FI.png"
+    },
+    {
+      "name": "Filter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Filter.png"
+    },
+    {
+      "name": "Final.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Final.png"
+    },
+    {
+      "name": "Final_2.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Final_2.png"
+    },
+    {
+      "name": "Find_My.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Find_My.png"
+    },
+    {
+      "name": "Flamingo.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Flamingo.png"
+    },
+    {
+      "name": "ForeignMedia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ForeignMedia.png"
+    },
+    {
+      "name": "FOX.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/FOX.png"
+    },
+    {
+      "name": "friDay.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/friDay.png"
+    },
+    {
+      "name": "fuboTV.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/fuboTV.png"
+    },
+    {
+      "name": "G-Core_Labs.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/G-Core_Labs.png"
+    },
+    {
+      "name": "Game.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Game.png"
+    },
+    {
+      "name": "GCP.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GCP.png"
+    },
+    {
+      "name": "GIA.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GIA.png"
+    },
+    {
+      "name": "GLaDOS.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GLaDOS.png"
+    },
+    {
+      "name": "Global.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Global.png"
+    },
+    {
+      "name": "GlobalMedia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GlobalMedia.png"
+    },
+    {
+      "name": "Google.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Google.png"
+    },
+    {
+      "name": "Google_Drive.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Google_Drive.png"
+    },
+    {
+      "name": "Google_Opinion_Rewards.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Google_Opinion_Rewards.png"
+    },
+    {
+      "name": "Google_Search.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Google_Search.png"
+    },
+    {
+      "name": "GT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GT.png"
+    },
+    {
+      "name": "GuGuEX.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GuGuEX.png"
+    },
+    {
+      "name": "GuGuEX_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GuGuEX_Letter.png"
+    },
+    {
+      "name": "HBO.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/HBO.png"
+    },
+    {
+      "name": "HBO_Max.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/HBO_Max.png"
+    },
+    {
+      "name": "Heart.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Heart.png"
+    },
+    {
+      "name": "Heureka.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Heureka.png"
+    },
+    {
+      "name": "HGC.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/HGC.png"
+    },
+    {
+      "name": "Hijacking.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Hijacking.png"
+    },
+    {
+      "name": "HiNet.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/HiNet.png"
+    },
+    {
+      "name": "hitun.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/hitun.png"
+    },
+    {
+      "name": "HK.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/HK.png"
+    },
+    {
+      "name": "HKBN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/HKBN.png"
+    },
+    {
+      "name": "HKMTMedia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/HKMTMedia.png"
+    },
+    {
+      "name": "HKT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/HKT.png"
+    },
+    {
+      "name": "Hong_Kong.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Hong_Kong.png"
+    },
+    {
+      "name": "Hulu.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Hulu.png"
+    },
+    {
+      "name": "iCloud.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/iCloud.png"
+    },
+    {
+      "name": "IEPL.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/IEPL.png"
+    },
+    {
+      "name": "IIJ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/IIJ.png"
+    },
+    {
+      "name": "IN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/IN.png"
+    },
+    {
+      "name": "Ingress.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Ingress.png"
+    },
+    {
+      "name": "Instagram.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Instagram.png"
+    },
+    {
+      "name": "IPLC.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/IPLC.png"
+    },
+    {
+      "name": "iQIYI&bilibili.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/iQIYI&bilibili.png"
+    },
+    {
+      "name": "iQIYI.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/iQIYI.png"
+    },
+    {
+      "name": "ITV_Hub.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ITV_Hub.png"
+    },
+    {
+      "name": "Japan.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Japan.png"
+    },
+    {
+      "name": "JIYOU.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/JIYOU.png"
+    },
+    {
+      "name": "JOOX.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/JOOX.png"
+    },
+    {
+      "name": "JOOX_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/JOOX_Letter.png"
+    },
+    {
+      "name": "JP.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/JP.png"
+    },
+    {
+      "name": "KKBOX.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/KKBOX.png"
+    },
+    {
+      "name": "KKTV.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/KKTV.png"
+    },
+    {
+      "name": "Korea.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Korea.png"
+    },
+    {
+      "name": "KR.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/KR.png"
+    },
+    {
+      "name": "KT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/KT.png"
+    },
+    {
+      "name": "Lab.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Lab.png"
+    },
+    {
+      "name": "League_of_Legends.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/League_of_Legends.png"
+    },
+    {
+      "name": "LineTV.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/LineTV.png"
+    },
+    {
+      "name": "LineTV_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/LineTV_Letter.png"
+    },
+    {
+      "name": "LiTV.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/LiTV.png"
+    },
+    {
+      "name": "LocalLAN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/LocalLAN.png"
+    },
+    {
+      "name": "Lock.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Lock.png"
+    },
+    {
+      "name": "LOL.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/LOL.png"
+    },
+    {
+      "name": "Loop.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Loop.png"
+    },
+    {
+      "name": "Macao.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Macao.png"
+    },
+    {
+      "name": "Magic.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Magic.png"
+    },
+    {
+      "name": "Mail.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Mail.png"
+    },
+    {
+      "name": "Malaysia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Malaysia.png"
+    },
+    {
+      "name": "MAYING.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MAYING.png"
+    },
+    {
+      "name": "Media.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Media.png"
+    },
+    {
+      "name": "Microsoft.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Microsoft.png"
+    },
+    {
+      "name": "MO.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MO.png"
+    },
+    {
+      "name": "Mouse.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Mouse.png"
+    },
+    {
+      "name": "Music.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Music.png"
+    },
+    {
+      "name": "Music_Enhance.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Music_Enhance.png"
+    },
+    {
+      "name": "MY.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MY.png"
+    },
+    {
+      "name": "My5.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/My5.png"
+    },
+    {
+      "name": "myTV_SUPER.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/myTV_SUPER.png"
+    },
+    {
+      "name": "N3RO.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/N3RO.png"
+    },
+    {
+      "name": "NBC.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/NBC.png"
+    },
+    {
+      "name": "Netease_Music.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Netease_Music.png"
+    },
+    {
+      "name": "Netease_Music_Unlock.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Netease_Music_Unlock.png"
+    },
+    {
+      "name": "Netflix.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Netflix.png"
+    },
+    {
+      "name": "Netflix_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Netflix_Letter.png"
+    },
+    {
+      "name": "Nexitally.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Nexitally.png"
+    },
+    {
+      "name": "niconico.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/niconico.png"
+    },
+    {
+      "name": "niconico_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/niconico_Letter.png"
+    },
+    {
+      "name": "Notion.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Notion.png"
+    },
+    {
+      "name": "NTT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/NTT.png"
+    },
+    {
+      "name": "Null_Nation.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Null_Nation.png"
+    },
+    {
+      "name": "NyanCat.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/NyanCat.png"
+    },
+    {
+      "name": "OneDrive.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/OneDrive.png"
+    },
+    {
+      "name": "Oracle.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Oracle.png"
+    },
+    {
+      "name": "Ox.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Ox.png"
+    },
+    {
+      "name": "Pandora.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Pandora.png"
+    },
+    {
+      "name": "PayPal.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PayPal.png"
+    },
+    {
+      "name": "PBS.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PBS.png"
+    },
+    {
+      "name": "PCCW.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PCCW.png"
+    },
+    {
+      "name": "Peacock.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Peacock.png"
+    },
+    {
+      "name": "Peacock_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Peacock_Letter.png"
+    },
+    {
+      "name": "Peacock_P.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Peacock_P.png"
+    },
+    {
+      "name": "PH.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PH.png"
+    },
+    {
+      "name": "Philippines.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Philippines.png"
+    },
+    {
+      "name": "Pig.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Pig.png"
+    },
+    {
+      "name": "Pornhub.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Pornhub.png"
+    },
+    {
+      "name": "PostBox.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PostBox.png"
+    },
+    {
+      "name": "PostBox_Alt.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PostBox_Alt.png"
+    },
+    {
+      "name": "Prime_Video.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Prime_Video.png"
+    },
+    {
+      "name": "Proxy.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Proxy.png"
+    },
+    {
+      "name": "Puzzle.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Puzzle.png"
+    },
+    {
+      "name": "QQ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/QQ.png"
+    },
+    {
+      "name": "Quantumult_X.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Quantumult_X.png"
+    },
+    {
+      "name": "Qure.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Qure.png"
+    },
+    {
+      "name": "Reject.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Reject.png"
+    },
+    {
+      "name": "rix.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/rix.png"
+    },
+    {
+      "name": "rixcloud.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/rixcloud.png"
+    },
+    {
+      "name": "Rocket.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Rocket.png"
+    },
+    {
+      "name": "Round_Robin.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Round_Robin.png"
+    },
+    {
+      "name": "Round_Robin_Alt.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Round_Robin_Alt.png"
+    },
+    {
+      "name": "RU.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/RU.png"
+    },
+    {
+      "name": "Server.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Server.png"
+    },
+    {
+      "name": "SG.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SG.png"
+    },
+    {
+      "name": "Singapore.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Singapore.png"
+    },
+    {
+      "name": "Siri.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Siri.png"
+    },
+    {
+      "name": "SK.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SK.png"
+    },
+    {
+      "name": "Sling_TV.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Sling_TV.png"
+    },
+    {
+      "name": "SoftBank.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SoftBank.png"
+    },
+    {
+      "name": "SoftBank_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SoftBank_Letter.png"
+    },
+    {
+      "name": "Spark.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Spark.png"
+    },
+    {
+      "name": "Speedtest.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Speedtest.png"
+    },
+    {
+      "name": "Spotify.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Spotify.png"
+    },
+    {
+      "name": "SS.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SS.png"
+    },
+    {
+      "name": "SSID.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SSID.png"
+    },
+    {
+      "name": "SSID_Alt.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SSID_Alt.png"
+    },
+    {
+      "name": "SSR.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SSR.png"
+    },
+    {
+      "name": "ssrcloud.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ssrcloud.png"
+    },
+    {
+      "name": "SSR_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SSR_Letter.png"
+    },
+    {
+      "name": "SS_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SS_Letter.png"
+    },
+    {
+      "name": "Stack.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Stack.png"
+    },
+    {
+      "name": "Star.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Star.png"
+    },
+    {
+      "name": "Static.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Static.png"
+    },
+    {
+      "name": "Static_Alt.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Static_Alt.png"
+    },
+    {
+      "name": "Streaming.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Streaming.png"
+    },
+    {
+      "name": "StreamingCN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/StreamingCN.png"
+    },
+    {
+      "name": "StreamingSE.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/StreamingSE.png"
+    },
+    {
+      "name": "Taiwan.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Taiwan.png"
+    },
+    {
+      "name": "Taobao.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Taobao.png"
+    },
+    {
+      "name": "Telegram.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Telegram.png"
+    },
+    {
+      "name": "Telegram_X.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Telegram_X.png"
+    },
+    {
+      "name": "Tencent_Cloud.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Tencent_Cloud.png"
+    },
+    {
+      "name": "TestFlight.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TestFlight.png"
+    },
+    {
+      "name": "TH.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TH.png"
+    },
+    {
+      "name": "TIDAL.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TIDAL.png"
+    },
+    {
+      "name": "TikTok.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TikTok.png"
+    },
+    {
+      "name": "TR.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TR.png"
+    },
+    {
+      "name": "Trojan.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Trojan.png"
+    },
+    {
+      "name": "Trojan_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Trojan_Letter.png"
+    },
+    {
+      "name": "Turkey.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Turkey.png"
+    },
+    {
+      "name": "TVB.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TVB.png"
+    },
+    {
+      "name": "TW.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TW.png"
+    },
+    {
+      "name": "Twitch.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Twitch.png"
+    },
+    {
+      "name": "Twitter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Twitter.png"
+    },
+    {
+      "name": "UK.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/UK.png"
+    },
+    {
+      "name": "ULB.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ULB.png"
+    },
+    {
+      "name": "ULB_Alt.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ULB_Alt.png"
+    },
+    {
+      "name": "UN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/UN.png"
+    },
+    {
+      "name": "United_Kingdom.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/United_Kingdom.png"
+    },
+    {
+      "name": "United_Nations.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/United_Nations.png"
+    },
+    {
+      "name": "United_States.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/United_States.png"
+    },
+    {
+      "name": "United_States_Map.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/United_States_Map.png"
+    },
+    {
+      "name": "Unlock.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Unlock.png"
+    },
+    {
+      "name": "US.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/US.png"
+    },
+    {
+      "name": "Vimeo.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Vimeo.png"
+    },
+    {
+      "name": "VIP.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/VIP.png"
+    },
+    {
+      "name": "VirMach.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/VirMach.png"
+    },
+    {
+      "name": "VirMach_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/VirMach_Letter.png"
+    },
+    {
+      "name": "ViuTV.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ViuTV.png"
+    },
+    {
+      "name": "VMess.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/VMess.png"
+    },
+    {
+      "name": "VMess_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/VMess_Letter.png"
+    },
+    {
+      "name": "w8ves.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/w8ves.png"
+    },
+    {
+      "name": "w8ves_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/w8ves_Letter.png"
+    },
+    {
+      "name": "Want_Want.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Want_Want.png"
+    },
+    {
+      "name": "Want_Want_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Want_Want_Letter.png"
+    },
+    {
+      "name": "WeChat.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/WeChat.png"
+    },
+    {
+      "name": "WeTV.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/WeTV.png"
+    },
+    {
+      "name": "WeTV_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/WeTV_Letter.png"
+    },
+    {
+      "name": "WiFi.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/WiFi.png"
+    },
+    {
+      "name": "Windows.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Windows.png"
+    },
+    {
+      "name": "WTT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/WTT.png"
+    },
+    {
+      "name": "x0.1.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/x0.1.png"
+    },
+    {
+      "name": "x0.2.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/x0.2.png"
+    },
+    {
+      "name": "x0.3.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/x0.3.png"
+    },
+    {
+      "name": "x0.4.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/x0.4.png"
+    },
+    {
+      "name": "x0.5.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/x0.5.png"
+    },
+    {
+      "name": "x0.7.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/x0.7.png"
+    },
+    {
+      "name": "x0.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/x0.png"
+    },
+    {
+      "name": "x1.0.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/x1.0.png"
+    },
+    {
+      "name": "x1.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/x1.png"
+    },
+    {
+      "name": "x2.0.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/x2.0.png"
+    },
+    {
+      "name": "x2.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/x2.png"
+    },
+    {
+      "name": "x3.0.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/x3.0.png"
+    },
+    {
+      "name": "x3.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/x3.png"
+    },
+    {
+      "name": "x4.0.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/x4.0.png"
+    },
+    {
+      "name": "x5.0.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/x5.0.png"
+    },
+    {
+      "name": "Yahoo.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Yahoo.png"
+    },
+    {
+      "name": "Yahoo_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Yahoo_Letter.png"
+    },
+    {
+      "name": "YouTube.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/YouTube.png"
+    },
+    {
+      "name": "YouTube_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/YouTube_Letter.png"
+    },
+    {
+      "name": "YouTube_Music.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/YouTube_Music.png"
+    },
+    {
+      "name": "YoYu.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/YoYu.png"
+    },
+    {
+      "name": "YoYu_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/YoYu_Letter.png"
+    },
+    {
+      "name": "YTOO.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/YTOO.png"
+    },
+    {
+      "name": "YTOO_Letter.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/YTOO_Letter.png"
+    },
+    {
+      "name": "Xiaomi.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Xiaomi.png"
+    },
+    {
+      "name": "NL.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/NL.png"
+    },
+    {
+      "name": "AT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AT.png"
+    },
+    {
+      "name": "AZ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AZ.png"
+    },
+    {
+      "name": "BG.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BG.png"
+    },
+    {
+      "name": "CH.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CH.png"
+    },
+    {
+      "name": "CL.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CL.png"
+    },
+    {
+      "name": "CO.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CO.png"
+    },
+    {
+      "name": "CZ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CZ.png"
+    },
+    {
+      "name": "ES.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ES.png"
+    },
+    {
+      "name": "IL.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/IL.png"
+    },
+    {
+      "name": "LV.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/LV.png"
+    },
+    {
+      "name": "PK.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PK.png"
+    },
+    {
+      "name": "PL.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PL.png"
+    },
+    {
+      "name": "VN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/VN.png"
+    },
+    {
+      "name": "Azerbaijan.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Azerbaijan.png"
+    },
+    {
+      "name": "Switzerland.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Switzerland.png"
+    },
+    {
+      "name": "Chile.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Chile.png"
+    },
+    {
+      "name": "Israel.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Israel.png"
+    },
+    {
+      "name": "Pakistan.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Pakistan.png"
+    },
+    {
+      "name": "Vietnam.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Vietnam.png"
+    },
+    {
+      "name": "Clock.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Clock.png"
+    },
+    {
+      "name": "AC.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AC.png"
+    },
+    {
+      "name": "Ascension.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Ascension.png"
+    },
+    {
+      "name": "AD.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AD.png"
+    },
+    {
+      "name": "Andorra.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Andorra.png"
+    },
+    {
+      "name": "AE.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AE.png"
+    },
+    {
+      "name": "AF.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AF.png"
+    },
+    {
+      "name": "Afghanistan.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Afghanistan.png"
+    },
+    {
+      "name": "AG.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AG.png"
+    },
+    {
+      "name": "Antigua_Barbuda.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Antigua_Barbuda.png"
+    },
+    {
+      "name": "AI.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AI.png"
+    },
+    {
+      "name": "Anguilla.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Anguilla.png"
+    },
+    {
+      "name": "AL.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AL.png"
+    },
+    {
+      "name": "Albania.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Albania.png"
+    },
+    {
+      "name": "AM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AM.png"
+    },
+    {
+      "name": "AN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AN.png"
+    },
+    {
+      "name": "Netherlands_Antilles.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Netherlands_Antilles.png"
+    },
+    {
+      "name": "AO.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AO.png"
+    },
+    {
+      "name": "Angola.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Angola.png"
+    },
+    {
+      "name": "AQ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AQ.png"
+    },
+    {
+      "name": "Antarctica.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Antarctica.png"
+    },
+    {
+      "name": "AR.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AR.png"
+    },
+    {
+      "name": "Argentina.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Argentina.png"
+    },
+    {
+      "name": "AS.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AS.png"
+    },
+    {
+      "name": "American_Samoa.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/American_Samoa.png"
+    },
+    {
+      "name": "AU.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AU.png"
+    },
+    {
+      "name": "Australia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Australia.png"
+    },
+    {
+      "name": "AW.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AW.png"
+    },
+    {
+      "name": "Aruba.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Aruba.png"
+    },
+    {
+      "name": "AX.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/AX.png"
+    },
+    {
+      "name": "Aland_Islands.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Aland_Islands.png"
+    },
+    {
+      "name": "BA.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BA.png"
+    },
+    {
+      "name": "Bosnia_Herzegovina.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Bosnia_Herzegovina.png"
+    },
+    {
+      "name": "BB.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BB.png"
+    },
+    {
+      "name": "Barbados.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Barbados.png"
+    },
+    {
+      "name": "BD.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BD.png"
+    },
+    {
+      "name": "Bangladesh.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Bangladesh.png"
+    },
+    {
+      "name": "BE.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BE.png"
+    },
+    {
+      "name": "BF.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BF.png"
+    },
+    {
+      "name": "Burkina_Faso.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Burkina_Faso.png"
+    },
+    {
+      "name": "BH.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BH.png"
+    },
+    {
+      "name": "Bahrain.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Bahrain.png"
+    },
+    {
+      "name": "BI.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BI.png"
+    },
+    {
+      "name": "Burundi.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Burundi.png"
+    },
+    {
+      "name": "BJ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BJ.png"
+    },
+    {
+      "name": "BL.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BL.png"
+    },
+    {
+      "name": "Saint_Barthelemy.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Saint_Barthelemy.png"
+    },
+    {
+      "name": "BM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BM.png"
+    },
+    {
+      "name": "Bermuda.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Bermuda.png"
+    },
+    {
+      "name": "BN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BN.png"
+    },
+    {
+      "name": "Brunei.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Brunei.png"
+    },
+    {
+      "name": "BO.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BO.png"
+    },
+    {
+      "name": "BQ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BQ.png"
+    },
+    {
+      "name": "Caribbean_Netherlands.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Caribbean_Netherlands.png"
+    },
+    {
+      "name": "BR.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BR.png"
+    },
+    {
+      "name": "Brazil.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Brazil.png"
+    },
+    {
+      "name": "BS.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BS.png"
+    },
+    {
+      "name": "BT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BT.png"
+    },
+    {
+      "name": "Bhutan.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Bhutan.png"
+    },
+    {
+      "name": "BV.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BV.png"
+    },
+    {
+      "name": "Bouvet_Island.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Bouvet_Island.png"
+    },
+    {
+      "name": "BW.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BW.png"
+    },
+    {
+      "name": "BY.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BY.png"
+    },
+    {
+      "name": "Belarus.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Belarus.png"
+    },
+    {
+      "name": "BZ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/BZ.png"
+    },
+    {
+      "name": "Belize.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Belize.png"
+    },
+    {
+      "name": "CC.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CC.png"
+    },
+    {
+      "name": "Cocos_Islands.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Cocos_Islands.png"
+    },
+    {
+      "name": "CD.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CD.png"
+    },
+    {
+      "name": "DR_Congo.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/DR_Congo.png"
+    },
+    {
+      "name": "CF.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CF.png"
+    },
+    {
+      "name": "Central_African_Republic.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Central_African_Republic.png"
+    },
+    {
+      "name": "CG.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CG.png"
+    },
+    {
+      "name": "CI.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CI.png"
+    },
+    {
+      "name": "CK.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CK.png"
+    },
+    {
+      "name": "Cook_Islands.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Cook_Islands.png"
+    },
+    {
+      "name": "CM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CM.png"
+    },
+    {
+      "name": "Cameroon.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Cameroon.png"
+    },
+    {
+      "name": "CP.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CP.png"
+    },
+    {
+      "name": "Clipperton.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Clipperton.png"
+    },
+    {
+      "name": "CQ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CQ.png"
+    },
+    {
+      "name": "Sark.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Sark.png"
+    },
+    {
+      "name": "CR.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CR.png"
+    },
+    {
+      "name": "CU.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CU.png"
+    },
+    {
+      "name": "Cuba.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Cuba.png"
+    },
+    {
+      "name": "CV.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CV.png"
+    },
+    {
+      "name": "Cape_Verde.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Cape_Verde.png"
+    },
+    {
+      "name": "CW.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CW.png"
+    },
+    {
+      "name": "Curacao.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Curacao.png"
+    },
+    {
+      "name": "CX.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CX.png"
+    },
+    {
+      "name": "Christmas_Island.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Christmas_Island.png"
+    },
+    {
+      "name": "CY.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/CY.png"
+    },
+    {
+      "name": "Cyprus.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Cyprus.png"
+    },
+    {
+      "name": "DG.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/DG.png"
+    },
+    {
+      "name": "DJ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/DJ.png"
+    },
+    {
+      "name": "Djibouti.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Djibouti.png"
+    },
+    {
+      "name": "DK.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/DK.png"
+    },
+    {
+      "name": "Denmark.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Denmark.png"
+    },
+    {
+      "name": "DM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/DM.png"
+    },
+    {
+      "name": "Dominica.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Dominica.png"
+    },
+    {
+      "name": "DO.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/DO.png"
+    },
+    {
+      "name": "Dominican_Republic.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Dominican_Republic.png"
+    },
+    {
+      "name": "DZ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/DZ.png"
+    },
+    {
+      "name": "Algeria.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Algeria.png"
+    },
+    {
+      "name": "EA.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/EA.png"
+    },
+    {
+      "name": "Ceuta_Melilla.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Ceuta_Melilla.png"
+    },
+    {
+      "name": "EC.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/EC.png"
+    },
+    {
+      "name": "Ecuador.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Ecuador.png"
+    },
+    {
+      "name": "EE.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/EE.png"
+    },
+    {
+      "name": "EG.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/EG.png"
+    },
+    {
+      "name": "Egypt.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Egypt.png"
+    },
+    {
+      "name": "EH.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/EH.png"
+    },
+    {
+      "name": "Western_Sahara.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Western_Sahara.png"
+    },
+    {
+      "name": "ER.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ER.png"
+    },
+    {
+      "name": "Eritrea.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Eritrea.png"
+    },
+    {
+      "name": "ET.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ET.png"
+    },
+    {
+      "name": "Ethiopia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Ethiopia.png"
+    },
+    {
+      "name": "Finland.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Finland.png"
+    },
+    {
+      "name": "FJ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/FJ.png"
+    },
+    {
+      "name": "Fiji.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Fiji.png"
+    },
+    {
+      "name": "FK.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/FK.png"
+    },
+    {
+      "name": "Falkland_Islands.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Falkland_Islands.png"
+    },
+    {
+      "name": "FM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/FM.png"
+    },
+    {
+      "name": "Micronesia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Micronesia.png"
+    },
+    {
+      "name": "FO.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/FO.png"
+    },
+    {
+      "name": "Faroe_Islands.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Faroe_Islands.png"
+    },
+    {
+      "name": "FR.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/FR.png"
+    },
+    {
+      "name": "FX.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/FX.png"
+    },
+    {
+      "name": "GA.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GA.png"
+    },
+    {
+      "name": "GB.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GB.png"
+    },
+    {
+      "name": "GD.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GD.png"
+    },
+    {
+      "name": "Grenada.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Grenada.png"
+    },
+    {
+      "name": "GE.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GE.png"
+    },
+    {
+      "name": "Georgia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Georgia.png"
+    },
+    {
+      "name": "GF.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GF.png"
+    },
+    {
+      "name": "French_Guiana.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/French_Guiana.png"
+    },
+    {
+      "name": "GG.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GG.png"
+    },
+    {
+      "name": "Guernsey.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Guernsey.png"
+    },
+    {
+      "name": "GH.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GH.png"
+    },
+    {
+      "name": "Ghana.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Ghana.png"
+    },
+    {
+      "name": "GI.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GI.png"
+    },
+    {
+      "name": "Gibraltar.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Gibraltar.png"
+    },
+    {
+      "name": "GL.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GL.png"
+    },
+    {
+      "name": "Greenland.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Greenland.png"
+    },
+    {
+      "name": "GM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GM.png"
+    },
+    {
+      "name": "GN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GN.png"
+    },
+    {
+      "name": "GP.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GP.png"
+    },
+    {
+      "name": "Guadeloupe.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Guadeloupe.png"
+    },
+    {
+      "name": "GQ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GQ.png"
+    },
+    {
+      "name": "Equatorial_Guinea.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Equatorial_Guinea.png"
+    },
+    {
+      "name": "GR.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GR.png"
+    },
+    {
+      "name": "Greece.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Greece.png"
+    },
+    {
+      "name": "GS.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GS.png"
+    },
+    {
+      "name": "South_Georgia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/South_Georgia.png"
+    },
+    {
+      "name": "Guatemala.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Guatemala.png"
+    },
+    {
+      "name": "GU.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GU.png"
+    },
+    {
+      "name": "Guam.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Guam.png"
+    },
+    {
+      "name": "GW.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GW.png"
+    },
+    {
+      "name": "Guinea_Bissau.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Guinea_Bissau.png"
+    },
+    {
+      "name": "GY.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/GY.png"
+    },
+    {
+      "name": "Guyana.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Guyana.png"
+    },
+    {
+      "name": "HM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/HM.png"
+    },
+    {
+      "name": "Heard_McDonald.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Heard_McDonald.png"
+    },
+    {
+      "name": "HN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/HN.png"
+    },
+    {
+      "name": "Honduras.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Honduras.png"
+    },
+    {
+      "name": "HR.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/HR.png"
+    },
+    {
+      "name": "Croatia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Croatia.png"
+    },
+    {
+      "name": "HT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/HT.png"
+    },
+    {
+      "name": "Haiti.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Haiti.png"
+    },
+    {
+      "name": "HU.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/HU.png"
+    },
+    {
+      "name": "IC.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/IC.png"
+    },
+    {
+      "name": "ID.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ID.png"
+    },
+    {
+      "name": "IE.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/IE.png"
+    },
+    {
+      "name": "IM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/IM.png"
+    },
+    {
+      "name": "Isle_of_Man.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Isle_of_Man.png"
+    },
+    {
+      "name": "India.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/India.png"
+    },
+    {
+      "name": "IO.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/IO.png"
+    },
+    {
+      "name": "IQ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/IQ.png"
+    },
+    {
+      "name": "Iraq.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Iraq.png"
+    },
+    {
+      "name": "IR.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/IR.png"
+    },
+    {
+      "name": "Iran.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Iran.png"
+    },
+    {
+      "name": "IS.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/IS.png"
+    },
+    {
+      "name": "Iceland.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Iceland.png"
+    },
+    {
+      "name": "IT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/IT.png"
+    },
+    {
+      "name": "JE.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/JE.png"
+    },
+    {
+      "name": "Jersey.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Jersey.png"
+    },
+    {
+      "name": "JM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/JM.png"
+    },
+    {
+      "name": "Jamaica.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Jamaica.png"
+    },
+    {
+      "name": "JO.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/JO.png"
+    },
+    {
+      "name": "Jordan.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Jordan.png"
+    },
+    {
+      "name": "KE.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/KE.png"
+    },
+    {
+      "name": "Kenya.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Kenya.png"
+    },
+    {
+      "name": "KG.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/KG.png"
+    },
+    {
+      "name": "Kyrgyzstan.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Kyrgyzstan.png"
+    },
+    {
+      "name": "KH.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/KH.png"
+    },
+    {
+      "name": "Cambodia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Cambodia.png"
+    },
+    {
+      "name": "KI.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/KI.png"
+    },
+    {
+      "name": "Kiribati.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Kiribati.png"
+    },
+    {
+      "name": "KM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/KM.png"
+    },
+    {
+      "name": "Comoros.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Comoros.png"
+    },
+    {
+      "name": "KN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/KN.png"
+    },
+    {
+      "name": "Saint_Kitts_Nevis.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Saint_Kitts_Nevis.png"
+    },
+    {
+      "name": "KP.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/KP.png"
+    },
+    {
+      "name": "North_Korea.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/North_Korea.png"
+    },
+    {
+      "name": "KW.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/KW.png"
+    },
+    {
+      "name": "KY.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/KY.png"
+    },
+    {
+      "name": "Cayman_Islands.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Cayman_Islands.png"
+    },
+    {
+      "name": "KZ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/KZ.png"
+    },
+    {
+      "name": "Kazakhstan.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Kazakhstan.png"
+    },
+    {
+      "name": "LA.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/LA.png"
+    },
+    {
+      "name": "Laos.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Laos.png"
+    },
+    {
+      "name": "LB.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/LB.png"
+    },
+    {
+      "name": "Lebanon.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Lebanon.png"
+    },
+    {
+      "name": "LC.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/LC.png"
+    },
+    {
+      "name": "Saint_Lucia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Saint_Lucia.png"
+    },
+    {
+      "name": "LI.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/LI.png"
+    },
+    {
+      "name": "Liechtenstein.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Liechtenstein.png"
+    },
+    {
+      "name": "LK.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/LK.png"
+    },
+    {
+      "name": "Sri_Lanka.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Sri_Lanka.png"
+    },
+    {
+      "name": "LR.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/LR.png"
+    },
+    {
+      "name": "Liberia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Liberia.png"
+    },
+    {
+      "name": "LS.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/LS.png"
+    },
+    {
+      "name": "Lesotho.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Lesotho.png"
+    },
+    {
+      "name": "LT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/LT.png"
+    },
+    {
+      "name": "LU.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/LU.png"
+    },
+    {
+      "name": "LY.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/LY.png"
+    },
+    {
+      "name": "Libya.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Libya.png"
+    },
+    {
+      "name": "MA.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MA.png"
+    },
+    {
+      "name": "Morocco.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Morocco.png"
+    },
+    {
+      "name": "MC.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MC.png"
+    },
+    {
+      "name": "MD.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MD.png"
+    },
+    {
+      "name": "Moldova.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Moldova.png"
+    },
+    {
+      "name": "ME.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ME.png"
+    },
+    {
+      "name": "Montenegro.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Montenegro.png"
+    },
+    {
+      "name": "MF.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MF.png"
+    },
+    {
+      "name": "Saint_Martin.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Saint_Martin.png"
+    },
+    {
+      "name": "MG.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MG.png"
+    },
+    {
+      "name": "MH.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MH.png"
+    },
+    {
+      "name": "Marshall_Islands.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Marshall_Islands.png"
+    },
+    {
+      "name": "MK.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MK.png"
+    },
+    {
+      "name": "North_Macedonia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/North_Macedonia.png"
+    },
+    {
+      "name": "ML.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ML.png"
+    },
+    {
+      "name": "MM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MM.png"
+    },
+    {
+      "name": "Myanmar.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Myanmar.png"
+    },
+    {
+      "name": "MN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MN.png"
+    },
+    {
+      "name": "Mongolia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Mongolia.png"
+    },
+    {
+      "name": "MP.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MP.png"
+    },
+    {
+      "name": "Northern_Mariana.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Northern_Mariana.png"
+    },
+    {
+      "name": "MQ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MQ.png"
+    },
+    {
+      "name": "MR.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MR.png"
+    },
+    {
+      "name": "Mauritania.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Mauritania.png"
+    },
+    {
+      "name": "MS.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MS.png"
+    },
+    {
+      "name": "MT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MT.png"
+    },
+    {
+      "name": "Malta.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Malta.png"
+    },
+    {
+      "name": "MU.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MU.png"
+    },
+    {
+      "name": "MV.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MV.png"
+    },
+    {
+      "name": "Maldives.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Maldives.png"
+    },
+    {
+      "name": "MW.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MW.png"
+    },
+    {
+      "name": "Malawi.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Malawi.png"
+    },
+    {
+      "name": "MX.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MX.png"
+    },
+    {
+      "name": "Mexico.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Mexico.png"
+    },
+    {
+      "name": "MZ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/MZ.png"
+    },
+    {
+      "name": "Mozambique.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Mozambique.png"
+    },
+    {
+      "name": "NA.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/NA.png"
+    },
+    {
+      "name": "Namibia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Namibia.png"
+    },
+    {
+      "name": "NC.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/NC.png"
+    },
+    {
+      "name": "New_Caledonia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/New_Caledonia.png"
+    },
+    {
+      "name": "NE.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/NE.png"
+    },
+    {
+      "name": "Niger.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Niger.png"
+    },
+    {
+      "name": "NF.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/NF.png"
+    },
+    {
+      "name": "Norfolk_Island.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Norfolk_Island.png"
+    },
+    {
+      "name": "NG.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/NG.png"
+    },
+    {
+      "name": "NI.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/NI.png"
+    },
+    {
+      "name": "Nicaragua.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Nicaragua.png"
+    },
+    {
+      "name": "NO.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/NO.png"
+    },
+    {
+      "name": "Norway.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Norway.png"
+    },
+    {
+      "name": "NP.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/NP.png"
+    },
+    {
+      "name": "Nepal.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Nepal.png"
+    },
+    {
+      "name": "NR.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/NR.png"
+    },
+    {
+      "name": "Nauru.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Nauru.png"
+    },
+    {
+      "name": "NU.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/NU.png"
+    },
+    {
+      "name": "Niue.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Niue.png"
+    },
+    {
+      "name": "NZ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/NZ.png"
+    },
+    {
+      "name": "New_Zealand.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/New_Zealand.png"
+    },
+    {
+      "name": "OM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/OM.png"
+    },
+    {
+      "name": "Oman.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Oman.png"
+    },
+    {
+      "name": "PA.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PA.png"
+    },
+    {
+      "name": "Panama.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Panama.png"
+    },
+    {
+      "name": "PE.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PE.png"
+    },
+    {
+      "name": "PF.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PF.png"
+    },
+    {
+      "name": "French_Polynesia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/French_Polynesia.png"
+    },
+    {
+      "name": "PG.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PG.png"
+    },
+    {
+      "name": "Papua_New_Guinea.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Papua_New_Guinea.png"
+    },
+    {
+      "name": "PM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PM.png"
+    },
+    {
+      "name": "Saint_Pierre.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Saint_Pierre.png"
+    },
+    {
+      "name": "PN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PN.png"
+    },
+    {
+      "name": "Pitcairn.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Pitcairn.png"
+    },
+    {
+      "name": "PR.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PR.png"
+    },
+    {
+      "name": "Puerto_Rico.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Puerto_Rico.png"
+    },
+    {
+      "name": "PS.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PS.png"
+    },
+    {
+      "name": "PT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PT.png"
+    },
+    {
+      "name": "Portugal.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Portugal.png"
+    },
+    {
+      "name": "PW.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PW.png"
+    },
+    {
+      "name": "Palau.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Palau.png"
+    },
+    {
+      "name": "PY.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/PY.png"
+    },
+    {
+      "name": "Paraguay.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Paraguay.png"
+    },
+    {
+      "name": "QA.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/QA.png"
+    },
+    {
+      "name": "Qatar.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Qatar.png"
+    },
+    {
+      "name": "RE.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/RE.png"
+    },
+    {
+      "name": "Reunion.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Reunion.png"
+    },
+    {
+      "name": "RO.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/RO.png"
+    },
+    {
+      "name": "RS.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/RS.png"
+    },
+    {
+      "name": "Serbia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Serbia.png"
+    },
+    {
+      "name": "RW.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/RW.png"
+    },
+    {
+      "name": "Rwanda.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Rwanda.png"
+    },
+    {
+      "name": "SA.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SA.png"
+    },
+    {
+      "name": "Saudi_Arabia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Saudi_Arabia.png"
+    },
+    {
+      "name": "SB.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SB.png"
+    },
+    {
+      "name": "Solomon_Islands.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Solomon_Islands.png"
+    },
+    {
+      "name": "SC.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SC.png"
+    },
+    {
+      "name": "SD.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SD.png"
+    },
+    {
+      "name": "SE.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SE.png"
+    },
+    {
+      "name": "Sweden.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Sweden.png"
+    },
+    {
+      "name": "SH.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SH.png"
+    },
+    {
+      "name": "Saint_Helena.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Saint_Helena.png"
+    },
+    {
+      "name": "SI.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SI.png"
+    },
+    {
+      "name": "Slovenia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Slovenia.png"
+    },
+    {
+      "name": "SJ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SJ.png"
+    },
+    {
+      "name": "Svalbard.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Svalbard.png"
+    },
+    {
+      "name": "Slovakia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Slovakia.png"
+    },
+    {
+      "name": "SL.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SL.png"
+    },
+    {
+      "name": "SM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SM.png"
+    },
+    {
+      "name": "San_Marino.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/San_Marino.png"
+    },
+    {
+      "name": "SN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SN.png"
+    },
+    {
+      "name": "Senegal.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Senegal.png"
+    },
+    {
+      "name": "SO.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SO.png"
+    },
+    {
+      "name": "Somalia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Somalia.png"
+    },
+    {
+      "name": "SR.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SR.png"
+    },
+    {
+      "name": "Suriname.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Suriname.png"
+    },
+    {
+      "name": "South_Sudan.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/South_Sudan.png"
+    },
+    {
+      "name": "ST.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ST.png"
+    },
+    {
+      "name": "Sao_Tome.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Sao_Tome.png"
+    },
+    {
+      "name": "SU.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SU.png"
+    },
+    {
+      "name": "Soviet_Union.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Soviet_Union.png"
+    },
+    {
+      "name": "SV.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SV.png"
+    },
+    {
+      "name": "El_Salvador.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/El_Salvador.png"
+    },
+    {
+      "name": "SX.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SX.png"
+    },
+    {
+      "name": "Sint_Maarten.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Sint_Maarten.png"
+    },
+    {
+      "name": "SY.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SY.png"
+    },
+    {
+      "name": "Syria.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Syria.png"
+    },
+    {
+      "name": "SZ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/SZ.png"
+    },
+    {
+      "name": "Eswatini.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Eswatini.png"
+    },
+    {
+      "name": "TA.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TA.png"
+    },
+    {
+      "name": "Tristan_da_Cunha.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Tristan_da_Cunha.png"
+    },
+    {
+      "name": "TC.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TC.png"
+    },
+    {
+      "name": "Turks_Caicos.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Turks_Caicos.png"
+    },
+    {
+      "name": "TD.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TD.png"
+    },
+    {
+      "name": "TF.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TF.png"
+    },
+    {
+      "name": "French_Southern.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/French_Southern.png"
+    },
+    {
+      "name": "TG.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TG.png"
+    },
+    {
+      "name": "Togo.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Togo.png"
+    },
+    {
+      "name": "TJ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TJ.png"
+    },
+    {
+      "name": "Tajikistan.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Tajikistan.png"
+    },
+    {
+      "name": "TK.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TK.png"
+    },
+    {
+      "name": "Tokelau.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Tokelau.png"
+    },
+    {
+      "name": "TL.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TL.png"
+    },
+    {
+      "name": "Timor_Leste.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Timor_Leste.png"
+    },
+    {
+      "name": "TM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TM.png"
+    },
+    {
+      "name": "Turkmenistan.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Turkmenistan.png"
+    },
+    {
+      "name": "TN.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TN.png"
+    },
+    {
+      "name": "Tunisia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Tunisia.png"
+    },
+    {
+      "name": "TO.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TO.png"
+    },
+    {
+      "name": "Tonga.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Tonga.png"
+    },
+    {
+      "name": "TT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TT.png"
+    },
+    {
+      "name": "TV.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TV.png"
+    },
+    {
+      "name": "Tuvalu.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Tuvalu.png"
+    },
+    {
+      "name": "TZ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/TZ.png"
+    },
+    {
+      "name": "UA.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/UA.png"
+    },
+    {
+      "name": "UG.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/UG.png"
+    },
+    {
+      "name": "Uganda.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Uganda.png"
+    },
+    {
+      "name": "UM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/UM.png"
+    },
+    {
+      "name": "US_Outlying_Islands.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/US_Outlying_Islands.png"
+    },
+    {
+      "name": "UY.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/UY.png"
+    },
+    {
+      "name": "Uruguay.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Uruguay.png"
+    },
+    {
+      "name": "UZ.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/UZ.png"
+    },
+    {
+      "name": "Uzbekistan.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Uzbekistan.png"
+    },
+    {
+      "name": "VA.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/VA.png"
+    },
+    {
+      "name": "Vatican.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Vatican.png"
+    },
+    {
+      "name": "VC.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/VC.png"
+    },
+    {
+      "name": "Saint_Vincent.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Saint_Vincent.png"
+    },
+    {
+      "name": "VE.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/VE.png"
+    },
+    {
+      "name": "Venezuela.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Venezuela.png"
+    },
+    {
+      "name": "VG.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/VG.png"
+    },
+    {
+      "name": "British_Virgin_Islands.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/British_Virgin_Islands.png"
+    },
+    {
+      "name": "VI.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/VI.png"
+    },
+    {
+      "name": "US_Virgin_Islands.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/US_Virgin_Islands.png"
+    },
+    {
+      "name": "VU.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/VU.png"
+    },
+    {
+      "name": "Vanuatu.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Vanuatu.png"
+    },
+    {
+      "name": "WF.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/WF.png"
+    },
+    {
+      "name": "Wallis_Futuna.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Wallis_Futuna.png"
+    },
+    {
+      "name": "WS.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/WS.png"
+    },
+    {
+      "name": "Samoa.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Samoa.png"
+    },
+    {
+      "name": "XK.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/XK.png"
+    },
+    {
+      "name": "Kosovo.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Kosovo.png"
+    },
+    {
+      "name": "XX.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/XX.png"
+    },
+    {
+      "name": "Unknown.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Unknown.png"
+    },
+    {
+      "name": "YE.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/YE.png"
+    },
+    {
+      "name": "YT.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/YT.png"
+    },
+    {
+      "name": "Mayotte.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Mayotte.png"
+    },
+    {
+      "name": "YU.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/YU.png"
+    },
+    {
+      "name": "Yugoslavia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Yugoslavia.png"
+    },
+    {
+      "name": "ZA.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ZA.png"
+    },
+    {
+      "name": "South_Africa.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/South_Africa.png"
+    },
+    {
+      "name": "ZM.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ZM.png"
+    },
+    {
+      "name": "Zambia.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Zambia.png"
+    },
+    {
+      "name": "ZW.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/ZW.png"
+    },
+    {
+      "name": "Zimbabwe.png",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Qure/master/IconSet/Zimbabwe.png"
+    }
+  ],
+  "description": "Qure Light (All) 是 Qure 项目下的浅色主题的「所有」图标集 @Koolson"
+}
