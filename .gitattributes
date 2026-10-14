@@ -1,0 +1,2 @@
+# 上游镜像文件按字节原样保存，禁止 EOL 规范化（CI 同步与本地 Windows autocrlf 均不产生换行漂移）
+IconSet/region-flags/** -text

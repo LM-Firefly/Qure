@@ -1,0 +1,72 @@
+name: Sync region-flags SVGs
+
+on:
+  schedule:
+    # 每周一 04:17 UTC 同步一次上游 SVG 源
+    - cron: '17 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-region-flags
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout Qure
+        uses: actions/checkout@v6
+
+      - name: Fetch upstream region-flags SVGs
+        run: |
+          git clone --depth 1 --filter=blob:none --sparse \
+            https://github.com/googlefonts/noto-emoji.git /tmp/noto-emoji
+          git -C /tmp/noto-emoji sparse-checkout set third_party/region-flags/svg
+          echo "UPSTREAM_SHA=$(git -C /tmp/noto-emoji rev-parse HEAD)" >> "$GITHUB_ENV"
+
+      - name: Mirror SVGs into IconSet/region-flags
+        run: |
+          src=/tmp/noto-emoji/third_party/region-flags/svg
+          dst=IconSet/region-flags
+
+          count=$(find "$src" -maxdepth 1 -name '*.svg' -type f | wc -l)
+          echo "upstream svg count: $count"
+          if [ "$count" -eq 0 ]; then
+            echo "::error::No SVGs found in upstream $src — source layout may have changed"
+            exit 1
+          fi
+
+          mkdir -p "$dst"
+          # 删除上游已移除的文件（镜像语义，仅管理 *.svg）
+          removed=0
+          for f in "$dst"/*.svg; do
+            [ -e "$f" ] || continue
+            if [ ! -f "$src/$(basename "$f")" ]; then
+              rm -f "$f"
+              removed=$((removed + 1))
+            fi
+          done
+          cp -f "$src"/*.svg "$dst"/
+
+          {
+            echo "## Sync region-flags SVGs"
+            echo ""
+            echo "- upstream: googlefonts/noto-emoji@${UPSTREAM_SHA:0:7}"
+            echo "- synced: $count files, removed stale: $removed"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit and push if changed
+        run: |
+          if [ -z "$(git status --porcelain -- IconSet/region-flags)" ]; then
+            echo "No changes to sync."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add IconSet/region-flags
+          git commit -m "chore(icons): sync region-flags SVGs from googlefonts/noto-emoji@${UPSTREAM_SHA:0:7}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
